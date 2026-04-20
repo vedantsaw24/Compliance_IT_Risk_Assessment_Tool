@@ -1,4 +1,4 @@
-# IT Audit Compliance Tool (Streamlit)
+# IT Audit Compliance Tool
 
 A web-based IT audit compliance tool that maps company controls to frameworks (ISO 27001 and SOX), evaluates control testing, calculates compliance scores, identifies gaps, and generates audit-ready reports.
 
