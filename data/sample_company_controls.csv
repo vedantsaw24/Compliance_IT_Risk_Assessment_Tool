@@ -1,0 +1,7 @@
+company_control_id,control_name,mapped_control_id,owner,frequency,implemented
+CC-001,Access request and approval process,ISO-A.9.2;SOX-ITGC-01,IT Security Manager,Monthly,Yes
+CC-002,Privileged user review,ISO-A.9.4,IT Operations Lead,Monthly,Yes
+CC-003,Change deployment checklist,SOX-ITGC-02,Change Manager,Weekly,Yes
+CC-004,Vulnerability scanning and patching,ISO-A.12.6,Infrastructure Lead,Monthly,No
+CC-005,Operations runbook and job monitoring,ISO-A.12.1;SOX-ITGC-03,IT Operations Lead,Weekly,Yes
+CC-006,Backup restore drill,SOX-ITGC-04,Disaster Recovery Lead,Quarterly,Yes

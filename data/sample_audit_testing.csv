@@ -1,0 +1,7 @@
+company_control_id,test_result,evidence_available,remarks
+CC-001,Pass,Yes,Approval samples verified for selected users
+CC-002,Partial,No,Review performed but evidence archive incomplete
+CC-003,Fail,Yes,Change approvals missing for emergency releases
+CC-004,Fail,No,Patching backlog exceeds policy target
+CC-005,Pass,Yes,Monitoring logs complete and reviewed
+CC-006,Partial,Yes,Restore drill performed but scope was limited

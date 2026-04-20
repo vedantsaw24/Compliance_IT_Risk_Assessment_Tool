@@ -1,0 +1,9 @@
+framework,control_id,control_name,category,description,criticality
+ISO27001,ISO-A.9.2,User access provisioning,Access,User access rights are provisioned and reviewed,High
+ISO27001,ISO-A.9.4,Privileged access management,Access,Privileged access is restricted and monitored,High
+ISO27001,ISO-A.12.1,Operational procedures,Operations,Operational procedures are documented and maintained,Medium
+ISO27001,ISO-A.12.6,Vulnerability management,Operations,Vulnerabilities are identified and remediated promptly,High
+SOX,SOX-ITGC-01,Logical access control,Access,Access to financial systems is authorized,High
+SOX,SOX-ITGC-02,Change approval workflow,Change Management,Changes are tested and approved before deployment,High
+SOX,SOX-ITGC-03,Job monitoring and operations,Operations,Batch jobs and interfaces are monitored,Medium
+SOX,SOX-ITGC-04,Backup and recovery testing,Operations,Backup and recovery are tested regularly,Medium
